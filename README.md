@@ -2,8 +2,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=digvijaysinh08&label=Profile%20views&color=0e75b6&style=flat" alt="digvijaysinh08" /> </p>
-
 - 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **vagheladigvijaysinh3054@gmail.com**
