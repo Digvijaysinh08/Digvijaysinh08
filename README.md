@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaghela Digvijaysinh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width ="400" src="[![Uploading image.png…]()](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1k_X3UWJC89DM8edkwgaIk&ust=1720172949282000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKCHsOuNjYcDFQAAAAAdAAAAABAE)
-">
+<img align="right" alt="coding" width ="400" src="https://images.app.goo.gl/UmKUGG5ZnbVB7AuY7">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digvijaysinh08&label=Profile%20views&color=0e75b6&style=flat" alt="digvijaysinh08" /> </p>
 
