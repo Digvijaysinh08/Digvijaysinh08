@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaghela Digvijaysinh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" align="right" />
 
 - 🌱 I’m currently learning **MERN Stack**
 
