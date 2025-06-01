@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 📫 How to reach me **vagheladigvijaysinh3054@gmail.com**
+- 📫 How to reach me **vagheladigvijaysinh4552@gmail.com**
 
 - ⚡ Fun fact **I am funny 😅**
 
